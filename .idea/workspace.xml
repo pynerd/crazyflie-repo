@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bf4395a-ac40-436d-9686-33b4a51d6ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/bIT/Swarm_Pyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/bIT/swarmSequenceCircle_AK.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/bIT/swarmSequenceCircle_AK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/crazyflie/test_swarm.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/crazyflie/test_swarm.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crazyflie-repo" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.47365648">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/examples/bIT/autonomousSeq_AK.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="3" selection-start-column="3" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../crazyflie-lib-python-master/examples/autonomousSequence.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1700">
+                  <caret line="150" column="22" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#2009#3301#0" />
+                    <element signature="e#3334#3510#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/examples/bIT/swarmSequenceCircle_AK.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-column="23" />
+                  <folding>
+                    <element signature="e#1411#1422#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/examples/autonomous_sequence_high_level.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1411">
+                  <caret line="96" column="31" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#1454#1465#0" expanded="true" />
+                    <element signature="e#5644#5979#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/examples/swarmSequenceCircle.py">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/examples/bIT/Swarm_Pyramid.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="96">
+                  <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="vertical" split-proportion="0.5539216">
+          <split-first>
+            <leaf>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/examples/bIT/Swarm_Pyramid.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="82">
+                      <caret line="196" column="38" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="38" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/cflib/crazyflie/commander.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="68">
+                      <caret line="64" column="45" lean-forward="true" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>t</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/crazyflie/test_swarm.py" />
+        <option value="$PROJECT_DIR$/examples/autonomous_sequence_high_level.py" />
+        <option value="$PROJECT_DIR$/examples/bIT/swarmSequenceCircle_AK.py" />
+        <option value="$PROJECT_DIR$/examples/bIT/Swarm_Pyramid.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2582" />
+    <option name="height" value="1403" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crazyflie-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crazyflie-repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crazyflie-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crazyflie-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="cflib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crazyflie-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crazyflie-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="cflib" type="462c0819:PsiDirectoryNode" />
+              <item name="crazyflie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crazyflie-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crazyflie-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crazyflie-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crazyflie-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="bIT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crazyflie-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../crazyflie-lib-python-master" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Swarm_Pyramid">
+    <configuration name="Swarm_Pyramid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crazyflie-repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/bIT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/bIT/Swarm_Pyramid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swarmSequenceCircle_AK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crazyflie-repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/bIT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/bIT/swarmSequenceCircle_AK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_swarm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crazyflie-repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/crazyflie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/crazyflie/test_swarm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Swarm_Pyramid" />
+        <item itemvalue="Python.swarmSequenceCircle_AK" />
+        <item itemvalue="Python.test_swarm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bf4395a-ac40-436d-9686-33b4a51d6ed7" name="Default Changelist" comment="" />
+      <created>1556113638700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556113638700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.75198936" weight="0.24077977" />
+      <window_info id="Structure" order="1" sideWeight="0.2480106" side_tool="true" weight="0.29380342" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018657" side_tool="true" weight="0.24959871" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25420377" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25224072" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75198936" visible="true" weight="0.24077977" />
+      <window_info id="Structure" order="1" sideWeight="0.2480106" side_tool="true" weight="0.29380342" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018657" side_tool="true" weight="0.24959871" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25420377" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25224072" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/crazyflie/test_swarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build/build">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build/bdist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build/verify">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cflib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lpslib/lopoanchor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lpslib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/positioning/test_motion_commander.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7341" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/positioning/test_position_hl_commander.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/bIT/autonomousSeq_AK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../crazyflie-lib-python-master/examples/autonomousSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="150" column="22" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="22" />
+          <folding>
+            <element signature="e#2009#3301#0" />
+            <element signature="e#3334#3510#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/bIT/swarmSequenceCircle_AK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="23" />
+          <folding>
+            <element signature="e#1411#1422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/autonomous_sequence_high_level.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="96" column="31" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+          <folding>
+            <element signature="e#1454#1465#0" expanded="true" />
+            <element signature="e#5644#5979#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swarmSequenceCircle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cflib/crazyflie/commander.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="64" column="45" lean-forward="true" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/bIT/Swarm_Pyramid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

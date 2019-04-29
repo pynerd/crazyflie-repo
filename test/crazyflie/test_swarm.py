@@ -34,9 +34,9 @@ else:
 
 
 class TestSwarm(unittest.TestCase):
-    URI1 = 'uri1'
-    URI2 = 'uri2'
-    URI3 = 'uri3'
+    URI1 = 'radio://0/80/2M'
+    URI2 = 'radio://0/90/2M'
+    URI3 = 'radio://0/100/2M'
 
     def setUp(self):
         self.uris = [self.URI1, self.URI2, self.URI3]
